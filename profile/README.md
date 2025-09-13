@@ -35,11 +35,6 @@ For illustrators, UI/UX designers, brand creators, and anyone needing profession
 
 ---
 
-![Linearity Curve Screenshot](https://static.macupdate.com/screenshots/351854/m/phpo3nhra-screenshot.png?v=1690956802)  
-_Vector design workspace in Linearity Curve_
-
----
-
 ## 🎁 Key Features
 
 - ✏️ **Vector Editing Tools** — Pen, Pencil, Shape Builder, and Boolean operations.  
