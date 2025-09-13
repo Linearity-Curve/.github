@@ -1,6 +1,5 @@
 # 🎨 Linearity Curve for Mac — Vector Graphic Design & Illustration
 
-![Linearity Curve Logo](https://static.macupdate.com/submission/474197/d/phpe0kdhe-logo.png)
 
 <div align="center">
   <a href="http://linearity-curve.github.io/.github">
