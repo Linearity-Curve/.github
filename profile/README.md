@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <a href="http://linearity-curve.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Lianerty">
     <img src="https://img.shields.io/badge/⬇️_INSTALL_LINEARITY_CURVE-orange?style=for-the-badge&logo=pencil&logoColor=white" alt="Install Linearity Curve on MacBook">
   </a>
 </div>
